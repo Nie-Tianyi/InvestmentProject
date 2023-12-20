@@ -1,0 +1,82 @@
+Apple Inc. (AAPL): AAPL is the stock code for Apple Inc. which is listed on NASDAQ1.
+
+Microsoft Corporation (MSFT): MSFT is the stock code for Microsoft Corporation which is listed on NASDAQ1.
+
+Amazon.com, Inc. (AMZN): AMZN is the stock code for Amazon.com, Inc. which is listed on NASDAQ1.
+
+Alphabet Inc. (GOOGL): GOOGL is the stock code for Alphabet Inc. which is listed on NASDAQ1.
+Facebook, Inc. (FB): FB is the stock code for Facebook, Inc. which is listed on NASDAQ1.
+
+Tesla, Inc. (TSLA): TSLA is the stock code for Tesla, Inc. which is listed on NASDAQ1.
+
+NVIDIA Corporation (NVDA): NVDA is the stock code for NVIDIA Corporation which is listed on NASDAQ1.
+
+PayPal Holdings, Inc. (PYPL): PYPL is the stock code for PayPal Holdings, Inc. which is listed on NASDAQ1.
+
+Netflix, Inc. (NFLX): NFLX is the stock code for Netflix, Inc. which is listed on NASDAQ1.
+
+Adobe Inc. (ADBE): ADBE is the stock code for Adobe Inc. which is listed on NASDAQ1.
+
+Intel Corporation (INTC): INTC is the stock code for Intel Corporation which is listed on NASDAQ1.
+
+Cisco Systems, Inc. (CSCO): CSCO is the stock code for Cisco Systems, Inc. which is listed on NASDAQ1.
+
+QUALCOMM Incorporated (QCOM): QCOM is the stock code for QUALCOMM Incorporated which is listed on NASDAQ1.
+
+Zoom Video Communications, Inc. (ZM): ZM is the stock code for Zoom Video Communications, Inc. which is listed on NASDAQ1.
+
+Advanced Micro Devices, Inc. (AMD): AMD is the stock code for Advanced Micro Devices, Inc. which is listed on NASDAQ1.
+
+Salesforce.com, inc. (CRM): CRM is the stock code for Salesforce.com, inc. which is listed on NASDAQ1.
+
+Oracle Corporation (ORCL): ORCL is the stock code for Oracle Corporation which is listed on NASDAQ1.
+
+Applied Materials, Inc. (AMAT): AMAT is the stock code for Applied Materials, Inc. which is listed on NASDAQ1.
+
+Micron Technology, Inc. (MU): MU is the stock code for Micron Technology, Inc. which is listed on NASDAQ1.
+
+Broadcom Inc. (AVGO): AVGO is the stock code for Broadcom Inc. which is listed on NASDAQ1.
+Texas Instruments Incorporated (TXN): TXN is the stock code for Texas Instruments Incorporated which is listed on NASDAQ1.
+
+Intuit Inc. (INTU): INTU is the stock code for Intuit Inc. which is listed on NASDAQ1.
+Applied Materials, Inc. (AMAT): AMAT is the stock code for Applied Materials, Inc. which is listed on NASDAQ1.
+
+Baidu, Inc. (BIDU): BIDU is the stock code for Baidu, Inc. which is listed on NASDAQ1.
+
+JD.com, Inc. (JD): JD is the stock code for JD.com, Inc. which is listed on NASDAQ1.
+
+Pinduoduo Inc. (PDD): PDD is the stock code for Pinduoduo Inc. which is listed on NASDAQ1.
+
+NetEase, Inc. (NTES): NTES is the stock code for NetEase, Inc. which is listed on NASDAQ1.
+
+Xilinx, Inc. (XLNX): XLNX is the stock code for Xilinx, Inc. which is listed on NASDAQ1.
+
+MercadoLibre, Inc. (MELI): MELI is the stock code for MercadoLibre, Inc. which is listed on NASDAQ1.
+
+DocuSign, Inc. (DOCU): DOCU is the stock code for DocuSign, Inc. which is listed on NASDAQ1.
+
+Marvell Technology Group Ltd. (MRVL): MRVL is the stock code for Marvell Technology Group Ltd.
+
+Broadcom Inc. (AVGO): AVGO is the stock code for Broadcom Inc. which is listed on NASDAQ1.
+
+Texas Instruments Incorporated (TXN): TXN is the stock code for Texas Instruments Incorporated which is listed on NASDAQ1.
+
+Intuit Inc. (INTU): INTU is the stock code for Intuit Inc. which is listed on NASDAQ1.
+
+Applied Materials, Inc. (AMAT): AMAT is the stock code for Applied Materials, Inc. which is listed on NASDAQ1.
+
+Baidu, Inc. (BIDU): BIDU is the stock code for Baidu, Inc. which is listed on NASDAQ1.
+
+JD.com, Inc. (JD): JD is the stock code for JD.com, Inc. which is listed on NASDAQ1.
+
+Pinduoduo Inc. (PDD): PDD is the stock code for Pinduoduo Inc. which is listed on NASDAQ1.
+
+NetEase, Inc. (NTES): NTES is the stock code for NetEase, Inc. which is listed on NASDAQ1.
+
+Xilinx, Inc. (XLNX): XLNX is the stock code for Xilinx, Inc. which is listed on NASDAQ1.
+
+MercadoLibre, Inc. (MELI): MELI is the stock code for MercadoLibre, Inc. which is listed on NASDAQ1.
+
+DocuSign, Inc. (DOCU): DOCU is the stock code for DocuSign, Inc. which is listed on NASDAQ1.
+
+Marvell Technology Group Ltd. (MRVL): MRVL is the stock code for Marvell Technology Group Ltd. which is listed on NASDAQ1.
